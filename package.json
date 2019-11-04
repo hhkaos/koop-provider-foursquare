@@ -1,0 +1,24 @@
+{
+  "name": "koop-provider-foursquare",
+  "version": "0.1.0",
+  "description": "Experimental Koop provider to pull venues from Foursquare and transform it to Esri JSON",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha 'test/**/*.test.js'",
+    "start": "koop serve"
+  },
+  "dependencies": {
+    "config": "^3.1.0"
+  },
+  "devDependencies": {
+    "@koopjs/cli": "^0.4.0",
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  },
+  "repository": "",
+  "keywords": [
+    "koop",
+    "plugin",
+    "provider"
+  ]
+}

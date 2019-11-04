@@ -1,0 +1,8 @@
+{
+  "koop-provider-foursquare": {
+      "client_id": "",
+      "client_secret": "",
+      "v": "20191103",
+      "limit": 50
+  }
+}
